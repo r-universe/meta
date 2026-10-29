@@ -1,5 +1,8 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "prophet"]
+	path = prophet
+	url = https://github.com/meta/prophet
+	subdir = R
